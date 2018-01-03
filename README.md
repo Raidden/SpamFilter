@@ -2,9 +2,13 @@ Prerequisites
 Install all of the following software:
 
 Git
+
 Java >= 1.8
+
 Apache Maven
+
 How to run
+
 Clone project and change into directory
 
 Build:
