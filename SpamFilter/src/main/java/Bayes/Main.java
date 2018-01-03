@@ -1,12 +1,7 @@
 package Bayes;
 
-import com.sun.org.apache.xpath.internal.compiler.Keywords;
-
-import java.io.BufferedReader;
-import java.io.FileReader;
-import java.io.IOException;
-
 import java.io.File;
+import java.io.IOException;
 
 public class Main {
 
